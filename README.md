@@ -14,5 +14,5 @@ dependencies:
 ## Usage
 
 ```dart
-String text = new Pangu().spacingText("測試test測試");
+String text = new Pangu().spacingText("當你凝視著bug，bug也凝視著你");
 ```

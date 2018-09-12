@@ -2,7 +2,7 @@ name: pangu
 description: paranoid text spacing
 version: 1.0.0
 author: Edison Huang <gn00742754@gmail.com>
-homepage:
+homepage: https://github.com/SemonCat/pangu.dart
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"

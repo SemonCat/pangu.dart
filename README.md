@@ -11,11 +11,17 @@ Paranoid text spacing for good readability, to automatically insert whitespace b
 
 ```
 dependencies:
-  pangu: ^1.0.0
+  pangu: ^1.1.0
 ```
 
 ## Usage
 
 ```dart
-String text = new Pangu().spacingText("當你凝視著bug，bug也凝視著你");
+String text = Pangu().spacingText("當你凝視著bug，bug也凝視著你");
+```
+
+or
+
+```dart
+String text = Pangu.spacingText("當你凝視著bug，bug也凝視著你");
 ```
